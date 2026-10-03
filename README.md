@@ -32,9 +32,85 @@ El fútbol pone la pasión; la programación, las herramientas. **FutAPA** es do
 | 🎮 **Intereses** | Fútbol, videojuegos y experiencias interactivas |
 | 🎯 **Objetivo** | Convertir ideas en productos claros, útiles y con identidad |
 
+## ⚽ STARTING XI
+
+Tecnologías utilizadas en mis proyectos web, móviles y herramientas para Discord.
+
+### Lenguajes
+
+<p>
+  <img src="./assets/badges/html5.svg" height="36" alt="HTML5" />
+  <img src="./assets/badges/css3.svg" height="36" alt="CSS3" />
+  <img src="./assets/badges/javascript.svg" height="36" alt="JavaScript" />
+  <img src="./assets/badges/typescript.svg" height="36" alt="TypeScript" />
+  <img src="./assets/badges/csharp.svg" height="36" alt="C#" />
+  <img src="./assets/badges/dart.svg" height="36" alt="Dart" />
+</p>
+
+### Interfaces y aplicaciones
+
+<p>
+  <img src="./assets/badges/react.svg" height="36" alt="React" />
+  <img src="./assets/badges/nextjs.svg" height="36" alt="Next.js" />
+  <img src="./assets/badges/flutter.svg" height="36" alt="Flutter" />
+  <img src="./assets/badges/dotnet.svg" height="36" alt=".NET" />
+  <img src="./assets/badges/nodejs.svg" height="36" alt="Node.js" />
+  <img src="./assets/badges/tailwind.svg" height="36" alt="Tailwind CSS" />
+</p>
+
+### Animación e interacción
+
+<p>
+  <img src="./assets/badges/gsap.svg" height="36" alt="GSAP" />
+  <img src="./assets/badges/motion.svg" height="36" alt="Motion" />
+  <img src="./assets/badges/vanillatilt.svg" height="36" alt="Vanilla Tilt" />
+</p>
+
+## 🤝 THE SQUAD
+
+Servicios, datos y complementos que acompañan cada proyecto.
+
+### Datos y publicación
+
+<p>
+  <img src="./assets/badges/supabase.svg" height="36" alt="Supabase" />
+  <img src="./assets/badges/postgresql.svg" height="36" alt="PostgreSQL" />
+  <img src="./assets/badges/sqlite.svg" height="36" alt="SQLite" />
+  <img src="./assets/badges/efcore.svg" height="36" alt="EF Core" />
+  <img src="./assets/badges/vercel.svg" height="36" alt="Vercel" />
+</p>
+
+### Desarrollo y calidad
+
+<p>
+  <img src="./assets/badges/git.svg" height="36" alt="Git" />
+  <img src="./assets/badges/github.svg" height="36" alt="GitHub" />
+  <img src="./assets/badges/npm.svg" height="36" alt="npm" />
+  <img src="./assets/badges/nuget.svg" height="36" alt="NuGet" />
+  <img src="./assets/badges/actions.svg" height="36" alt="GitHub Actions" />
+  <img src="./assets/badges/eslint.svg" height="36" alt="ESLint" />
+  <img src="./assets/badges/xunit.svg" height="36" alt="xUnit" />
+  <img src="./assets/badges/fluttertest.svg" height="36" alt="Flutter Test" />
+  <img src="./assets/badges/flutterlints.svg" height="36" alt="Flutter Lints" />
+  <img src="./assets/badges/turbopack.svg" height="36" alt="Turbopack" />
+</p>
+
+### Librerías y recursos
+
+<p>
+  <img src="./assets/badges/discord.svg" height="36" alt="Discord" />
+  <img src="./assets/badges/dsharpplus.svg" height="36" alt="DSharpPlus" />
+  <img src="./assets/badges/imagesharp.svg" height="36" alt="ImageSharp" />
+  <img src="./assets/badges/polly.svg" height="36" alt="Polly" />
+  <img src="./assets/badges/serilog.svg" height="36" alt="Serilog" />
+  <img src="./assets/badges/cupertino.svg" height="36" alt="Cupertino Icons" />
+</p>
+
+<img src="./assets/touchline.svg" width="100%" alt="" />
+
 ## 🏆 MATCHDAY PROJECTS
 
-Web, apps y herramientas que conectan código, diseño y fútbol.
+Cada proyecto, con sus herramientas y acceso a la versión publicada cuando está disponible.
 
 ### ⚽ FutAPA · Web
 
@@ -42,7 +118,16 @@ Web, apps y herramientas que conectan código, diseño y fútbol.
 
 Prototipo de fútbol con colección de cartas, apertura de sobres, recompensas diarias y progreso guardado localmente.
 
-**Next.js**
+<p>
+  <img src="./assets/badges/nextjs.svg" height="36" alt="Next.js" />
+  <img src="./assets/badges/react.svg" height="36" alt="React" />
+  <img src="./assets/badges/typescript.svg" height="36" alt="TypeScript" />
+  <img src="./assets/badges/nodejs.svg" height="36" alt="Node.js" />
+  <img src="./assets/badges/npm.svg" height="36" alt="npm" />
+  <img src="./assets/badges/eslint.svg" height="36" alt="ESLint" />
+</p>
+
+Demo pública pendiente.
 
 ---
 
@@ -50,15 +135,38 @@ Prototipo de fútbol con colección de cartas, apertura de sobres, recompensas d
 
 Versión de FutAPA para explorar la experiencia como aplicación.
 
-**Flutter · Dart**
+<p>
+  <img src="./assets/badges/flutter.svg" height="36" alt="Flutter" />
+  <img src="./assets/badges/dart.svg" height="36" alt="Dart" />
+  <img src="./assets/badges/cupertino.svg" height="36" alt="Cupertino Icons" />
+  <img src="./assets/badges/fluttertest.svg" height="36" alt="Flutter Test" />
+  <img src="./assets/badges/flutterlints.svg" height="36" alt="Flutter Lints" />
+</p>
+
+En desarrollo · versión pública pendiente.
 
 ---
 
 ### 🏟️ APA-WEB
 
-Plataforma web para ligas, equipos, torneos y partidos.
+Plataforma para la comunidad de Pro Soccer Online: ligas, equipos, torneos, partidos y rankings.
 
-**Next.js · React · TypeScript · Supabase**
+<p>
+  <img src="./assets/badges/nextjs.svg" height="36" alt="Next.js" />
+  <img src="./assets/badges/react.svg" height="36" alt="React" />
+  <img src="./assets/badges/typescript.svg" height="36" alt="TypeScript" />
+  <img src="./assets/badges/tailwind.svg" height="36" alt="Tailwind CSS" />
+  <img src="./assets/badges/motion.svg" height="36" alt="Motion" />
+  <img src="./assets/badges/supabase.svg" height="36" alt="Supabase" />
+  <img src="./assets/badges/postgresql.svg" height="36" alt="PostgreSQL" />
+  <img src="./assets/badges/vercel.svg" height="36" alt="Vercel" />
+  <img src="./assets/badges/nodejs.svg" height="36" alt="Node.js" />
+  <img src="./assets/badges/npm.svg" height="36" alt="npm" />
+  <img src="./assets/badges/eslint.svg" height="36" alt="ESLint" />
+  <img src="./assets/badges/actions.svg" height="36" alt="GitHub Actions" />
+</p>
+
+[🌐 Ver proyecto publicado →](https://www.psoargentina.com)
 
 ---
 
@@ -66,7 +174,22 @@ Plataforma web para ligas, equipos, torneos y partidos.
 
 Bot de Discord para organizar partidas MIX de Pro Soccer Online: colas por roles, elección de capitanes, draft y rankings.
 
-**.NET · DSharpPlus · SQLite**
+<p>
+  <img src="./assets/badges/csharp.svg" height="36" alt="C#" />
+  <img src="./assets/badges/dotnet.svg" height="36" alt=".NET" />
+  <img src="./assets/badges/discord.svg" height="36" alt="Discord" />
+  <img src="./assets/badges/dsharpplus.svg" height="36" alt="DSharpPlus" />
+  <img src="./assets/badges/efcore.svg" height="36" alt="EF Core" />
+  <img src="./assets/badges/sqlite.svg" height="36" alt="SQLite" />
+  <img src="./assets/badges/imagesharp.svg" height="36" alt="ImageSharp" />
+  <img src="./assets/badges/polly.svg" height="36" alt="Polly" />
+  <img src="./assets/badges/serilog.svg" height="36" alt="Serilog" />
+  <img src="./assets/badges/nuget.svg" height="36" alt="NuGet" />
+  <img src="./assets/badges/xunit.svg" height="36" alt="xUnit" />
+  <img src="./assets/badges/actions.svg" height="36" alt="GitHub Actions" />
+</p>
+
+Herramienta para Discord · sin demo web pública.
 
 ---
 
@@ -74,7 +197,17 @@ Bot de Discord para organizar partidas MIX de Pro Soccer Online: colas por roles
 
 Landing gastronómica para presentar la marca, la carta y los locales, con acceso a la app de pedidos.
 
-**Next.js · React · TypeScript · Motion**
+<p>
+  <img src="./assets/badges/nextjs.svg" height="36" alt="Next.js" />
+  <img src="./assets/badges/react.svg" height="36" alt="React" />
+  <img src="./assets/badges/typescript.svg" height="36" alt="TypeScript" />
+  <img src="./assets/badges/motion.svg" height="36" alt="Motion" />
+  <img src="./assets/badges/nodejs.svg" height="36" alt="Node.js" />
+  <img src="./assets/badges/npm.svg" height="36" alt="npm" />
+  <img src="./assets/badges/turbopack.svg" height="36" alt="Turbopack" />
+</p>
+
+Versión pública pendiente.
 
 ---
 
@@ -82,9 +215,14 @@ Landing gastronómica para presentar la marca, la carta y los locales, con acces
 
 Mi presentación como desarrollador web, con interfaces responsive y animaciones.
 
-**HTML5 · CSS3 · JavaScript · GSAP**
+<p>
+  <img src="./assets/badges/html5.svg" height="36" alt="HTML5" />
+  <img src="./assets/badges/css3.svg" height="36" alt="CSS3" />
+  <img src="./assets/badges/javascript.svg" height="36" alt="JavaScript" />
+  <img src="./assets/badges/gsap.svg" height="36" alt="GSAP" />
+</p>
 
-[Ver repositorio →](https://github.com/MonzonSantiago/portfolio)
+[Ver repositorio →](https://github.com/MonzonSantiago/portfolio) · Demo pública pendiente.
 
 ---
 
@@ -92,7 +230,15 @@ Mi presentación como desarrollador web, con interfaces responsive y animaciones
 
 Otra versión de mi presentación profesional, enfocada en servicios de desarrollo web.
 
-**HTML · CSS · JavaScript**
+<p>
+  <img src="./assets/badges/html5.svg" height="36" alt="HTML5" />
+  <img src="./assets/badges/css3.svg" height="36" alt="CSS3" />
+  <img src="./assets/badges/javascript.svg" height="36" alt="JavaScript" />
+  <img src="./assets/badges/gsap.svg" height="36" alt="GSAP" />
+  <img src="./assets/badges/vanillatilt.svg" height="36" alt="Vanilla Tilt" />
+</p>
+
+Versión pública pendiente.
 
 ---
 
@@ -100,33 +246,7 @@ Otra versión de mi presentación profesional, enfocada en servicios de desarrol
 
 Espacio reservado para un próximo proyecto de fútbol.
 
-**En preparación**
-
-<img src="./assets/touchline.svg" width="100%" alt="" />
-
-## ⚽ STARTING XI
-
-<p align="center">Estructura, diseño e interacción.</p>
-
-<p align="center">
-  <img src="./assets/icons/html5.svg" width="52" height="52" alt="HTML5" title="HTML5" /> &nbsp;
-  <img src="./assets/icons/css3.svg" width="52" height="52" alt="CSS3" title="CSS3" /> &nbsp;
-  <img src="./assets/icons/javascript.svg" width="52" height="52" alt="JavaScript" title="JavaScript" /> &nbsp;
-  <img src="./assets/icons/gsap.svg" width="52" height="52" alt="GSAP" title="GSAP" />
-</p>
-<p align="center"><b>HTML5 · CSS3 · JavaScript · GSAP</b></p>
-
-<p align="center"><sub>Stack utilizado en mi <a href="https://github.com/MonzonSantiago/portfolio">portfolio público</a>.</sub></p>
-
-## 🤝 THE SQUAD
-
-<p align="center">
-  <img src="./assets/icons/git.svg" width="48" height="48" alt="Git" title="Git" /> &nbsp;
-  <img src="./assets/icons/github.svg" width="48" height="48" alt="GitHub" title="GitHub" />
-</p>
-<p align="center"><b>Git · GitHub · Diseño responsive</b></p>
-
-**Control de versiones, adaptación a distintos tamaños de pantalla y atención al detalle.** La base para que cada proyecto llegue bien al partido.
+En preparación.
 
 <img src="./assets/touchline.svg" width="100%" alt="" />
 
@@ -195,8 +315,9 @@ Espacio reservado para un próximo proyecto de fútbol.
 <details>
 <summary>🎨 Detrás de la cancha</summary>
 
-Gráficos y animaciones SVG propios, guardados en este repositorio. Logos: [Devicon](https://github.com/devicons/devicon) y [Simple Icons](https://github.com/simple-icons/simple-icons). Los logos representan las tecnologías utilizadas en el portfolio público; los nombres de las secciones son parte del concepto futbolero.
+Gráficos y animaciones SVG propios, guardados en este repositorio. Logos: [Devicon](https://github.com/devicons/devicon) y [Simple Icons](https://github.com/simple-icons/simple-icons). Las tecnologías se verificaron en los archivos y dependencias de mis proyectos. Los badges se guardan localmente y no tienen animaciones. Las librerías sin logo propio usan un pictograma descriptivo junto a su nombre. Los nombres de las secciones son parte del concepto futbolero.
 
 Recursos del marcador: [Shields.io](https://shields.io), [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg), [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended), [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats).
 
 </details>
+
