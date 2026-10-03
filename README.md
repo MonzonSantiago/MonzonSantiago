@@ -32,13 +32,81 @@ El fútbol pone la pasión; la programación, las herramientas. **FutAPA** es do
 | 🎮 **Intereses** | Fútbol, videojuegos y experiencias interactivas |
 | 🎯 **Objetivo** | Convertir ideas en productos claros, útiles y con identidad |
 
+## 🏆 MATCHDAY PROJECTS
+
+Web, apps y herramientas que conectan código, diseño y fútbol.
+
+### ⚽ FutAPA · Web
+
+**Proyecto principal · En desarrollo**
+
+Prototipo de fútbol con colección de cartas, apertura de sobres, recompensas diarias y progreso guardado localmente.
+
+**Next.js**
+
+---
+
+### 📱 FutAPA · Flutter
+
+Versión de FutAPA para explorar la experiencia como aplicación.
+
+**Flutter · Dart**
+
+---
+
+### 🏟️ APA-WEB
+
+Plataforma web para ligas, equipos, torneos y partidos.
+
+**Next.js · React · TypeScript · Supabase**
+
+---
+
+### 🤖 ApaBotMix
+
+Bot de Discord para organizar partidas MIX de Pro Soccer Online: colas por roles, elección de capitanes, draft y rankings.
+
+**.NET · DSharpPlus · SQLite**
+
+---
+
+### 🍣 SushiSoul Web
+
+Landing gastronómica para presentar la marca, la carta y los locales, con acceso a la app de pedidos.
+
+**Next.js · React · TypeScript · Motion**
+
+---
+
+### 💻 Portfolio
+
+Mi presentación como desarrollador web, con interfaces responsive y animaciones.
+
+**HTML5 · CSS3 · JavaScript · GSAP**
+
+[Ver repositorio →](https://github.com/MonzonSantiago/portfolio)
+
+---
+
+### 🧩 Portfolio Monchon
+
+Otra versión de mi presentación profesional, enfocada en servicios de desarrollo web.
+
+**HTML · CSS · JavaScript**
+
+---
+
+### ⚽ Fútbol Monchon
+
+Espacio reservado para un próximo proyecto de fútbol.
+
+**En preparación**
+
+<img src="./assets/touchline.svg" width="100%" alt="" />
+
 ## ⚽ STARTING XI
 
-<p align="center"><b>Mi formación en la web</b><br /><sub>Estructura, diseño e interacción jugando para el mismo equipo.</sub></p>
-
-<p align="center">
-  <img src="./assets/formation.svg" width="900" alt="Cancha táctica animada: HTML aporta estructura, CSS el diseño, JavaScript la interacción y GSAP el movimiento. La pelota conecta las cuatro tecnologías." />
-</p>
+<p align="center">Estructura, diseño e interacción.</p>
 
 <p align="center">
   <img src="./assets/icons/html5.svg" width="52" height="52" alt="HTML5" title="HTML5" /> &nbsp;
@@ -72,31 +140,6 @@ El fútbol pone la pasión; la programación, las herramientas. **FutAPA** es do
 | 🧩 **Desarrollo** | Construir, probar y mejorar en cada iteración |
 
 > **Cada sesión suma. Cada versión enseña.**
-
-## 🏆 MATCHDAY PROJECTS
-
-### ⚽ FutAPA · El proyecto que lleva la 10
-
-<p align="center">
-  <img src="./assets/futapa.svg" width="900" alt="FutAPA — proyecto principal en desarrollo. Tarjeta animada de jugador número 10, con estética de fútbol y programación." />
-</p>
-
-**Fútbol + programación + experiencia de juego.** Mi proyecto principal en desarrollo, pensado para transformar la pasión por el fútbol en una experiencia interactiva con identidad propia.
-
-La idea: **cartas de jugadores, apertura de sobres, draft y armado de equipos**. Son parte de la visión del proyecto; la experiencia sigue en construcción.
-
-<p>
-  <img src="https://img.shields.io/badge/STATUS-EN_DESARROLLO-7CFF6B?style=flat-square&labelColor=0B1210" alt="FutAPA: en desarrollo" />
-  <img src="https://img.shields.io/badge/FOCUS-FOOTBALL_x_CODE-0B1210?style=flat-square" alt="Foco: fútbol y código" />
-</p>
-
-### 💻 Portfolio · Mi cancha pública
-
-Mi espacio de presentación como desarrollador web: **HTML, CSS y JavaScript**, con animaciones en **GSAP**, navegación por secciones y adaptación a dispositivos móviles.
-
-[![Ver repositorio del portfolio](https://img.shields.io/badge/VER_REPOSITORIO-7CFF6B?style=for-the-badge&logo=github&logoColor=0B1210)](https://github.com/MonzonSantiago/portfolio)
-
-<img src="./assets/touchline.svg" width="100%" alt="" />
 
 ## 📊 SEASON STATS
 
@@ -152,7 +195,7 @@ Mi espacio de presentación como desarrollador web: **HTML, CSS y JavaScript**, 
 <details>
 <summary>🎨 Detrás de la cancha</summary>
 
-Gráficos y animaciones SVG propios, guardados en este repositorio. Logos: [Devicon](https://github.com/devicons/devicon) y [Simple Icons](https://github.com/simple-icons/simple-icons). La formación representa las tecnologías utilizadas en el portfolio público; los nombres de las secciones son parte del concepto futbolero.
+Gráficos y animaciones SVG propios, guardados en este repositorio. Logos: [Devicon](https://github.com/devicons/devicon) y [Simple Icons](https://github.com/simple-icons/simple-icons). Los logos representan las tecnologías utilizadas en el portfolio público; los nombres de las secciones son parte del concepto futbolero.
 
 Recursos del marcador: [Shields.io](https://shields.io), [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg), [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended), [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats).
 
