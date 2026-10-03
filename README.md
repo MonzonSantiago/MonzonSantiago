@@ -39,31 +39,31 @@ Tecnologías utilizadas en mis proyectos web, móviles y herramientas para Disco
 ### Lenguajes
 
 <p>
-  <img src="./assets/badges/html5.svg" height="36" alt="HTML5" />
-  <img src="./assets/badges/css3.svg" height="36" alt="CSS3" />
-  <img src="./assets/badges/javascript.svg" height="36" alt="JavaScript" />
-  <img src="./assets/badges/typescript.svg" height="36" alt="TypeScript" />
-  <img src="./assets/badges/csharp.svg" height="36" alt="C#" />
-  <img src="./assets/badges/dart.svg" height="36" alt="Dart" />
+  <img src="./assets/badges/html5.svg?v=2" height="36" alt="HTML5" />
+  <img src="./assets/badges/css3.svg?v=2" height="36" alt="CSS3" />
+  <img src="./assets/badges/javascript.svg?v=2" height="36" alt="JavaScript" />
+  <img src="./assets/badges/typescript.svg?v=2" height="36" alt="TypeScript" />
+  <img src="./assets/badges/csharp.svg?v=2" height="36" alt="C#" />
+  <img src="./assets/badges/dart.svg?v=2" height="36" alt="Dart" />
 </p>
 
 ### Interfaces y aplicaciones
 
 <p>
-  <img src="./assets/badges/react.svg" height="36" alt="React" />
-  <img src="./assets/badges/nextjs.svg" height="36" alt="Next.js" />
-  <img src="./assets/badges/flutter.svg" height="36" alt="Flutter" />
-  <img src="./assets/badges/dotnet.svg" height="36" alt=".NET" />
-  <img src="./assets/badges/nodejs.svg" height="36" alt="Node.js" />
-  <img src="./assets/badges/tailwind.svg" height="36" alt="Tailwind CSS" />
+  <img src="./assets/badges/react.svg?v=2" height="36" alt="React" />
+  <img src="./assets/badges/nextjs.svg?v=2" height="36" alt="Next.js" />
+  <img src="./assets/badges/flutter.svg?v=2" height="36" alt="Flutter" />
+  <img src="./assets/badges/dotnet.svg?v=2" height="36" alt=".NET" />
+  <img src="./assets/badges/nodejs.svg?v=2" height="36" alt="Node.js" />
+  <img src="./assets/badges/tailwind.svg?v=2" height="36" alt="Tailwind CSS" />
 </p>
 
 ### Animación e interacción
 
 <p>
-  <img src="./assets/badges/gsap.svg" height="36" alt="GSAP" />
-  <img src="./assets/badges/motion.svg" height="36" alt="Motion" />
-  <img src="./assets/badges/vanillatilt.svg" height="36" alt="Vanilla Tilt" />
+  <img src="./assets/badges/gsap.svg?v=2" height="36" alt="GSAP" />
+  <img src="./assets/badges/motion.svg?v=2" height="36" alt="Motion" />
+  <img src="./assets/badges/vanillatilt.svg?v=2" height="36" alt="Vanilla Tilt" />
 </p>
 
 ## 🤝 THE SQUAD
@@ -73,37 +73,37 @@ Servicios, datos y complementos que acompañan cada proyecto.
 ### Datos y publicación
 
 <p>
-  <img src="./assets/badges/supabase.svg" height="36" alt="Supabase" />
-  <img src="./assets/badges/postgresql.svg" height="36" alt="PostgreSQL" />
-  <img src="./assets/badges/sqlite.svg" height="36" alt="SQLite" />
-  <img src="./assets/badges/efcore.svg" height="36" alt="EF Core" />
-  <img src="./assets/badges/vercel.svg" height="36" alt="Vercel" />
+  <img src="./assets/badges/supabase.svg?v=2" height="36" alt="Supabase" />
+  <img src="./assets/badges/postgresql.svg?v=2" height="36" alt="PostgreSQL" />
+  <img src="./assets/badges/sqlite.svg?v=2" height="36" alt="SQLite" />
+  <img src="./assets/badges/efcore.svg?v=2" height="36" alt="EF Core" />
+  <img src="./assets/badges/vercel.svg?v=2" height="36" alt="Vercel" />
 </p>
 
 ### Desarrollo y calidad
 
 <p>
-  <img src="./assets/badges/git.svg" height="36" alt="Git" />
-  <img src="./assets/badges/github.svg" height="36" alt="GitHub" />
-  <img src="./assets/badges/npm.svg" height="36" alt="npm" />
-  <img src="./assets/badges/nuget.svg" height="36" alt="NuGet" />
-  <img src="./assets/badges/actions.svg" height="36" alt="GitHub Actions" />
-  <img src="./assets/badges/eslint.svg" height="36" alt="ESLint" />
-  <img src="./assets/badges/xunit.svg" height="36" alt="xUnit" />
-  <img src="./assets/badges/fluttertest.svg" height="36" alt="Flutter Test" />
-  <img src="./assets/badges/flutterlints.svg" height="36" alt="Flutter Lints" />
-  <img src="./assets/badges/turbopack.svg" height="36" alt="Turbopack" />
+  <img src="./assets/badges/git.svg?v=2" height="36" alt="Git" />
+  <img src="./assets/badges/github.svg?v=2" height="36" alt="GitHub" />
+  <img src="./assets/badges/npm.svg?v=2" height="36" alt="npm" />
+  <img src="./assets/badges/nuget.svg?v=2" height="36" alt="NuGet" />
+  <img src="./assets/badges/actions.svg?v=2" height="36" alt="GitHub Actions" />
+  <img src="./assets/badges/eslint.svg?v=2" height="36" alt="ESLint" />
+  <img src="./assets/badges/xunit.svg?v=2" height="36" alt="xUnit" />
+  <img src="./assets/badges/fluttertest.svg?v=2" height="36" alt="Flutter Test" />
+  <img src="./assets/badges/flutterlints.svg?v=2" height="36" alt="Flutter Lints" />
+  <img src="./assets/badges/turbopack.svg?v=2" height="36" alt="Turbopack" />
 </p>
 
 ### Librerías y recursos
 
 <p>
-  <img src="./assets/badges/discord.svg" height="36" alt="Discord" />
-  <img src="./assets/badges/dsharpplus.svg" height="36" alt="DSharpPlus" />
-  <img src="./assets/badges/imagesharp.svg" height="36" alt="ImageSharp" />
-  <img src="./assets/badges/polly.svg" height="36" alt="Polly" />
-  <img src="./assets/badges/serilog.svg" height="36" alt="Serilog" />
-  <img src="./assets/badges/cupertino.svg" height="36" alt="Cupertino Icons" />
+  <img src="./assets/badges/discord.svg?v=2" height="36" alt="Discord" />
+  <img src="./assets/badges/dsharpplus.svg?v=2" height="36" alt="DSharpPlus" />
+  <img src="./assets/badges/imagesharp.svg?v=2" height="36" alt="ImageSharp" />
+  <img src="./assets/badges/polly.svg?v=2" height="36" alt="Polly" />
+  <img src="./assets/badges/serilog.svg?v=2" height="36" alt="Serilog" />
+  <img src="./assets/badges/cupertino.svg?v=2" height="36" alt="Cupertino Icons" />
 </p>
 
 <img src="./assets/touchline.svg" width="100%" alt="" />
@@ -119,12 +119,12 @@ Cada proyecto, con sus herramientas y acceso a la versión publicada cuando est�
 Prototipo de fútbol con colección de cartas, apertura de sobres, recompensas diarias y progreso guardado localmente.
 
 <p>
-  <img src="./assets/badges/nextjs.svg" height="36" alt="Next.js" />
-  <img src="./assets/badges/react.svg" height="36" alt="React" />
-  <img src="./assets/badges/typescript.svg" height="36" alt="TypeScript" />
-  <img src="./assets/badges/nodejs.svg" height="36" alt="Node.js" />
-  <img src="./assets/badges/npm.svg" height="36" alt="npm" />
-  <img src="./assets/badges/eslint.svg" height="36" alt="ESLint" />
+  <img src="./assets/badges/nextjs.svg?v=2" height="36" alt="Next.js" />
+  <img src="./assets/badges/react.svg?v=2" height="36" alt="React" />
+  <img src="./assets/badges/typescript.svg?v=2" height="36" alt="TypeScript" />
+  <img src="./assets/badges/nodejs.svg?v=2" height="36" alt="Node.js" />
+  <img src="./assets/badges/npm.svg?v=2" height="36" alt="npm" />
+  <img src="./assets/badges/eslint.svg?v=2" height="36" alt="ESLint" />
 </p>
 
 Demo pública pendiente.
@@ -136,11 +136,11 @@ Demo pública pendiente.
 Versión de FutAPA para explorar la experiencia como aplicación.
 
 <p>
-  <img src="./assets/badges/flutter.svg" height="36" alt="Flutter" />
-  <img src="./assets/badges/dart.svg" height="36" alt="Dart" />
-  <img src="./assets/badges/cupertino.svg" height="36" alt="Cupertino Icons" />
-  <img src="./assets/badges/fluttertest.svg" height="36" alt="Flutter Test" />
-  <img src="./assets/badges/flutterlints.svg" height="36" alt="Flutter Lints" />
+  <img src="./assets/badges/flutter.svg?v=2" height="36" alt="Flutter" />
+  <img src="./assets/badges/dart.svg?v=2" height="36" alt="Dart" />
+  <img src="./assets/badges/cupertino.svg?v=2" height="36" alt="Cupertino Icons" />
+  <img src="./assets/badges/fluttertest.svg?v=2" height="36" alt="Flutter Test" />
+  <img src="./assets/badges/flutterlints.svg?v=2" height="36" alt="Flutter Lints" />
 </p>
 
 En desarrollo · versión pública pendiente.
@@ -152,18 +152,18 @@ En desarrollo · versión pública pendiente.
 Plataforma para la comunidad de Pro Soccer Online: ligas, equipos, torneos, partidos y rankings.
 
 <p>
-  <img src="./assets/badges/nextjs.svg" height="36" alt="Next.js" />
-  <img src="./assets/badges/react.svg" height="36" alt="React" />
-  <img src="./assets/badges/typescript.svg" height="36" alt="TypeScript" />
-  <img src="./assets/badges/tailwind.svg" height="36" alt="Tailwind CSS" />
-  <img src="./assets/badges/motion.svg" height="36" alt="Motion" />
-  <img src="./assets/badges/supabase.svg" height="36" alt="Supabase" />
-  <img src="./assets/badges/postgresql.svg" height="36" alt="PostgreSQL" />
-  <img src="./assets/badges/vercel.svg" height="36" alt="Vercel" />
-  <img src="./assets/badges/nodejs.svg" height="36" alt="Node.js" />
-  <img src="./assets/badges/npm.svg" height="36" alt="npm" />
-  <img src="./assets/badges/eslint.svg" height="36" alt="ESLint" />
-  <img src="./assets/badges/actions.svg" height="36" alt="GitHub Actions" />
+  <img src="./assets/badges/nextjs.svg?v=2" height="36" alt="Next.js" />
+  <img src="./assets/badges/react.svg?v=2" height="36" alt="React" />
+  <img src="./assets/badges/typescript.svg?v=2" height="36" alt="TypeScript" />
+  <img src="./assets/badges/tailwind.svg?v=2" height="36" alt="Tailwind CSS" />
+  <img src="./assets/badges/motion.svg?v=2" height="36" alt="Motion" />
+  <img src="./assets/badges/supabase.svg?v=2" height="36" alt="Supabase" />
+  <img src="./assets/badges/postgresql.svg?v=2" height="36" alt="PostgreSQL" />
+  <img src="./assets/badges/vercel.svg?v=2" height="36" alt="Vercel" />
+  <img src="./assets/badges/nodejs.svg?v=2" height="36" alt="Node.js" />
+  <img src="./assets/badges/npm.svg?v=2" height="36" alt="npm" />
+  <img src="./assets/badges/eslint.svg?v=2" height="36" alt="ESLint" />
+  <img src="./assets/badges/actions.svg?v=2" height="36" alt="GitHub Actions" />
 </p>
 
 [🌐 Ver proyecto publicado →](https://www.psoargentina.com)
@@ -175,18 +175,18 @@ Plataforma para la comunidad de Pro Soccer Online: ligas, equipos, torneos, part
 Bot de Discord para organizar partidas MIX de Pro Soccer Online: colas por roles, elección de capitanes, draft y rankings.
 
 <p>
-  <img src="./assets/badges/csharp.svg" height="36" alt="C#" />
-  <img src="./assets/badges/dotnet.svg" height="36" alt=".NET" />
-  <img src="./assets/badges/discord.svg" height="36" alt="Discord" />
-  <img src="./assets/badges/dsharpplus.svg" height="36" alt="DSharpPlus" />
-  <img src="./assets/badges/efcore.svg" height="36" alt="EF Core" />
-  <img src="./assets/badges/sqlite.svg" height="36" alt="SQLite" />
-  <img src="./assets/badges/imagesharp.svg" height="36" alt="ImageSharp" />
-  <img src="./assets/badges/polly.svg" height="36" alt="Polly" />
-  <img src="./assets/badges/serilog.svg" height="36" alt="Serilog" />
-  <img src="./assets/badges/nuget.svg" height="36" alt="NuGet" />
-  <img src="./assets/badges/xunit.svg" height="36" alt="xUnit" />
-  <img src="./assets/badges/actions.svg" height="36" alt="GitHub Actions" />
+  <img src="./assets/badges/csharp.svg?v=2" height="36" alt="C#" />
+  <img src="./assets/badges/dotnet.svg?v=2" height="36" alt=".NET" />
+  <img src="./assets/badges/discord.svg?v=2" height="36" alt="Discord" />
+  <img src="./assets/badges/dsharpplus.svg?v=2" height="36" alt="DSharpPlus" />
+  <img src="./assets/badges/efcore.svg?v=2" height="36" alt="EF Core" />
+  <img src="./assets/badges/sqlite.svg?v=2" height="36" alt="SQLite" />
+  <img src="./assets/badges/imagesharp.svg?v=2" height="36" alt="ImageSharp" />
+  <img src="./assets/badges/polly.svg?v=2" height="36" alt="Polly" />
+  <img src="./assets/badges/serilog.svg?v=2" height="36" alt="Serilog" />
+  <img src="./assets/badges/nuget.svg?v=2" height="36" alt="NuGet" />
+  <img src="./assets/badges/xunit.svg?v=2" height="36" alt="xUnit" />
+  <img src="./assets/badges/actions.svg?v=2" height="36" alt="GitHub Actions" />
 </p>
 
 Herramienta para Discord · sin demo web pública.
@@ -198,13 +198,13 @@ Herramienta para Discord · sin demo web pública.
 Landing gastronómica para presentar la marca, la carta y los locales, con acceso a la app de pedidos.
 
 <p>
-  <img src="./assets/badges/nextjs.svg" height="36" alt="Next.js" />
-  <img src="./assets/badges/react.svg" height="36" alt="React" />
-  <img src="./assets/badges/typescript.svg" height="36" alt="TypeScript" />
-  <img src="./assets/badges/motion.svg" height="36" alt="Motion" />
-  <img src="./assets/badges/nodejs.svg" height="36" alt="Node.js" />
-  <img src="./assets/badges/npm.svg" height="36" alt="npm" />
-  <img src="./assets/badges/turbopack.svg" height="36" alt="Turbopack" />
+  <img src="./assets/badges/nextjs.svg?v=2" height="36" alt="Next.js" />
+  <img src="./assets/badges/react.svg?v=2" height="36" alt="React" />
+  <img src="./assets/badges/typescript.svg?v=2" height="36" alt="TypeScript" />
+  <img src="./assets/badges/motion.svg?v=2" height="36" alt="Motion" />
+  <img src="./assets/badges/nodejs.svg?v=2" height="36" alt="Node.js" />
+  <img src="./assets/badges/npm.svg?v=2" height="36" alt="npm" />
+  <img src="./assets/badges/turbopack.svg?v=2" height="36" alt="Turbopack" />
 </p>
 
 Versión pública pendiente.
@@ -216,10 +216,10 @@ Versión pública pendiente.
 Mi presentación como desarrollador web, con interfaces responsive y animaciones.
 
 <p>
-  <img src="./assets/badges/html5.svg" height="36" alt="HTML5" />
-  <img src="./assets/badges/css3.svg" height="36" alt="CSS3" />
-  <img src="./assets/badges/javascript.svg" height="36" alt="JavaScript" />
-  <img src="./assets/badges/gsap.svg" height="36" alt="GSAP" />
+  <img src="./assets/badges/html5.svg?v=2" height="36" alt="HTML5" />
+  <img src="./assets/badges/css3.svg?v=2" height="36" alt="CSS3" />
+  <img src="./assets/badges/javascript.svg?v=2" height="36" alt="JavaScript" />
+  <img src="./assets/badges/gsap.svg?v=2" height="36" alt="GSAP" />
 </p>
 
 [Ver repositorio →](https://github.com/MonzonSantiago/portfolio) · Demo pública pendiente.
@@ -231,11 +231,11 @@ Mi presentación como desarrollador web, con interfaces responsive y animaciones
 Otra versión de mi presentación profesional, enfocada en servicios de desarrollo web.
 
 <p>
-  <img src="./assets/badges/html5.svg" height="36" alt="HTML5" />
-  <img src="./assets/badges/css3.svg" height="36" alt="CSS3" />
-  <img src="./assets/badges/javascript.svg" height="36" alt="JavaScript" />
-  <img src="./assets/badges/gsap.svg" height="36" alt="GSAP" />
-  <img src="./assets/badges/vanillatilt.svg" height="36" alt="Vanilla Tilt" />
+  <img src="./assets/badges/html5.svg?v=2" height="36" alt="HTML5" />
+  <img src="./assets/badges/css3.svg?v=2" height="36" alt="CSS3" />
+  <img src="./assets/badges/javascript.svg?v=2" height="36" alt="JavaScript" />
+  <img src="./assets/badges/gsap.svg?v=2" height="36" alt="GSAP" />
+  <img src="./assets/badges/vanillatilt.svg?v=2" height="36" alt="Vanilla Tilt" />
 </p>
 
 Versión pública pendiente.
